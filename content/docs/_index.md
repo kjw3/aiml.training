@@ -14,17 +14,11 @@ This documentation serves as a repository of knowledge, providing detailed infor
 1. Tutorials & Guides:
 Step-by-step tutorials and guides covering a broad spectrum of topics in AI & ML, helping you grasp concepts and implement solutions effectively.
 
-2. API Documentation:
-Detailed information about our API’s functionalities, allowing developers to integrate and interact with our platform seamlessly.
+2. Best Practices:
+Insights and recommendations on utilizing AI & ML technologies ethically, responsibly, and optimally.
 
 3. FAQs:
 Answers to commonly asked questions, offering clarity and addressing any queries or concerns you might have regarding our platform and offerings.
-
-4. Best Practices:
-Insights and recommendations on utilizing AI & ML technologies ethically, responsibly, and optimally.
-
-5. Troubleshooting:
-Solutions and advice for resolving issues and overcoming challenges encountered while using our platform and resources.
 
 ## How to Use This Documentation
 
@@ -42,4 +36,4 @@ Keep abreast of the latest updates, enhancements, and releases by subscribing to
 
 Embark on your learning journey with AI ML Training’s comprehensive documentation. Dive into the world of Artificial Intelligence and Machine Learning and unlock the potential of transformative technologies.
 
-[Explore Tutorials] [View API Docs] [Read FAQs]
+[Explore Tutorials] [Read FAQs]
