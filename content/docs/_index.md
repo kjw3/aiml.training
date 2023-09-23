@@ -3,8 +3,6 @@ title: Documentation
 next: first-page
 ---
 
-# Welcome to AIML Training Documentation!
-
 Welcome to the comprehensive documentation hub of AIML Training! Whether you’re a beginner embarking on your learning journey in Artificial Intelligence and Machine Learning or a seasoned professional seeking advanced insights, our documentation is designed to assist every learner at every stage.
 
 ## Purpose of This Documentation
