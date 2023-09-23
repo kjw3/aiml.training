@@ -1,7 +1,7 @@
 ---
 title: Leaf Page
 type: docs
-prev: docs/folder/
+prev: docs/tutorials/
 ---
 
-This page is under a folder.
+This page is under a tutorials.

@@ -1,10 +1,10 @@
 ---
-title: Folder
+title: Tutorials
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/tutorials/leaf
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+Pages can be organized into tutorials.
