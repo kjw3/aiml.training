@@ -9,7 +9,7 @@ Empowering the World with Artificial Intelligence & Machine Learning
 
 ## Introduction
 
-Welcome to AIML Training – your premier online hub dedicated to comprehensive learning and development in Artificial Intelligence and Machine Learning. Our platform provides world-class training, resources, and support, allowing individuals and organizations to navigate the transformative landscape of AI & ML with confidence and competence.
+Welcome to AI ML Training – your premier online hub dedicated to comprehensive learning and development in Artificial Intelligence and Machine Learning. Our platform provides world-class training, resources, and support, allowing individuals and organizations to navigate the transformative landscape of AI & ML with confidence and competence.
 
 ## Our Mission:
 
