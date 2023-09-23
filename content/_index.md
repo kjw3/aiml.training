@@ -11,7 +11,7 @@ Empowering the World with Artificial Intelligence & Machine Learning
 
 Welcome to AI ML Training – your premier online hub dedicated to comprehensive learning and development in Artificial Intelligence and Machine Learning. Our platform provides world-class training, resources, and support, allowing individuals and organizations to navigate the transformative landscape of AI & ML with confidence and competence.
 
-## Our Mission:
+## Our Mission
 
 To democratize AI & ML education, fostering a community of informed, empowered, and ethical AI practitioners, and facilitating the development of cutting-edge AI & ML solutions to address global challenges.
 
