@@ -3,7 +3,7 @@ title: Documentation
 next: first-page
 ---
 
-Welcome to the comprehensive documentation hub of AIML Training! Whether you’re a beginner embarking on your learning journey in Artificial Intelligence and Machine Learning or a seasoned professional seeking advanced insights, our documentation is designed to assist every learner at every stage.
+Welcome to the comprehensive documentation hub of AI ML Training! Whether you’re a beginner embarking on your learning journey in Artificial Intelligence and Machine Learning or a seasoned professional seeking advanced insights, our documentation is designed to assist every learner at every stage.
 
 ## Purpose of This Documentation
 
@@ -40,6 +40,6 @@ Keep abreast of the latest updates, enhancements, and releases by subscribing to
 
 ## Let’s Get Started!
 
-Embark on your learning journey with AIML Training’s comprehensive documentation. Dive into the world of Artificial Intelligence and Machine Learning and unlock the potential of transformative technologies.
+Embark on your learning journey with AI ML Training’s comprehensive documentation. Dive into the world of Artificial Intelligence and Machine Learning and unlock the potential of transformative technologies.
 
 [Explore Tutorials] [View API Docs] [Read FAQs]
